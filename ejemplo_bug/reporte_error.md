@@ -1,5 +1,5 @@
 
-## Error en algortimo iterativo de SOR
+## Error en algortimo iterativo de Jacobi
 * Nombre de archivo: **Jacobi.py**
 * Datos:
   * [Archivo de Datos](https://github.com/glozanoa/algorithm-bugs/blob/master/ejemplo_bug/datos_bug)
