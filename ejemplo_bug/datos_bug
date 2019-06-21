@@ -1,0 +1,9 @@
+Datos que ocacionan el problema
+
+A = array([[1, 0, 1],
+            [2, 1, 0],
+            [0, 0, 1]])
+
+b = np.array([1,1,1]).reshape(3,1)
+
+x0 = np.zeros_like(b)
